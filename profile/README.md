@@ -12,8 +12,8 @@ Securonis Linux uses the MATE and GNOME desktop environment. It can be run in li
 
 ## 🔗 Official Links
 
-- 🌐 Website: [https://sourceforge.net/projects/securonis-linux](https://sourceforge.net/projects/securonis-linux)
-- 📺 YouTube: [https://youtube.com/@securonis](https://www.youtube.com/@scrpsec)
+- 🌐 Website: [https://sourceforge.net/projects/securonis-linux](https://sourceforge.net/projects/securonis)
+- 📺 YouTube: [https://youtube.com/@securonis](https://www.youtube.com/@securonis)
 - 🐦 Twitter/X: Coming soon!
 - ✍️ Medium: Coming Soon!
 
