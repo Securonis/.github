@@ -2,10 +2,11 @@
 
 Securonis Linux is a privacy- and security-focused Linux distribution based on Debian (testing). It includes a preconfigured tool that forces all incoming and outgoing connections through the Tor network. The system comes preloaded with various privacy and security tools, along with some custom-developed utilities.  
 
-Securonis Linux uses the MATE and GNOME desktop environment. It can be run in live mode or installed permanently using the Calamares installer. The goal of Securonis is to provide a secure system suitable for everyday use.
+Securonis Linux uses the MATE desktop environment. It can be run in live mode or installed permanently using the Calamares installer. The goal of Securonis is to provide a secure system suitable for everyday use.
 
-![mateonisnew](https://github.com/user-attachments/assets/8353195b-e562-408d-ac62-4607f2b23817)
-![gnomeonis](https://github.com/user-attachments/assets/df400a8a-c875-4633-8904-e5a3bb8bba51)  
+![3 0New](https://github.com/user-attachments/assets/db2496f0-449d-4257-af79-e61ef0a13242)
+![3 0NEW-2](https://github.com/user-attachments/assets/7b74f111-5927-442d-a7a5-5396b8ca957e)
+
 
 
 ---
