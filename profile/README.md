@@ -4,9 +4,8 @@ Securonis Linux is a privacy- and security-focused Linux distribution based on D
 
 Securonis Linux uses the MATE desktop environment. It can be run in live mode or installed permanently using the Calamares installer. The goal of Securonis is to provide a secure system suitable for everyday use.
 
-![3 0New](https://github.com/user-attachments/assets/db2496f0-449d-4257-af79-e61ef0a13242)
-![3 0NEW-2](https://github.com/user-attachments/assets/7b74f111-5927-442d-a7a5-5396b8ca957e)
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b747c51b-485e-40b6-a510-81aa38316d43" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6106386a-9395-4cc4-9ddc-92876a4726fe" />
 
 
 ---
